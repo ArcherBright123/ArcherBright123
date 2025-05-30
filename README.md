@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ArcherBright123
-- 👀 I’m interested in Video Games
-- 🌱 I’m currently learning How to hack Melee
-- 💞️ I’m looking to collaborate on hacking
-- 📫 How to reach me, just talk to me online
-- 😄 Pronouns: Him, He
-- ⚡ Fun fact: Don't have one
+- 👀 I’m interested in Video Games, Programing, Hacking, 3D Printing and Homebrew
+- 🌱 I’m currently learning hown to fit into society
+- 💞️ I’m looking to collaborate on hacking or Programming
+- 📫 How to reach me: Just use the disscusions on one of my projects
+- 😄 Pronouns: Him, He. I am Asexual (Has no sexual feelings toward anyone or anything)
+- ⚡ Fun fact: Despite being under 18, I have at least 10 years programming experience (Started at 4 years old on Scratch)
 
 
 [![Archer's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcherBright123)](https://github.com/anuraghazra/github-readme-stats)
