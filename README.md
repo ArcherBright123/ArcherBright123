@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Despite being under 18, I have at least 10 years programming experience (Started at 4 years old on Scratch)
 
 
-- Currently working on a Super Smash Bros Melee rom hack called "Ultimelee"
+- Currently trying to hack a PS2 without spending money
 
 
 
