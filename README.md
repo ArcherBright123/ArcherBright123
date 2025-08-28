@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Despite being under 18, I have at least 10 years programming experience (Started at 4 years old on Scratch)
 
 
-- Currently trying to hack a PS3 and upgrade its HDD, Also trying to relearn c#
+- Currently just seeing out school for a bit. Looking for more projects.
 
 
 
