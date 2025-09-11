@@ -1,3 +1,6 @@
+<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/193653fc-6353-430d-abfb-b285e9a98b54" />
+
+
 - 👋 Hi, I’m @ArcherBright123
 - 👀 I’m interested in Video Games, Programing, Hacking, 3D Printing and Homebrew
 - 🌱 I’m currently learning hown to fit into society
