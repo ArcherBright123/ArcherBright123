@@ -1,8 +1,9 @@
-***Insert Green Screen Car Crash***
+
 
 
 
 ![Green_screen_car_crash](https://github.com/user-attachments/assets/0295a430-5559-48ab-876c-c6e6ca3e403c)
+
 - 👋 Hi, I’m @ArcherBright123
 - 👀 I’m interested in Video Games, Programing, Hacking, 3D Printing and Homebrew
 - 🌱 I’m currently learning hown to fit into society
