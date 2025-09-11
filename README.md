@@ -1,4 +1,4 @@
-https://static.wikitide.net/partycrasherswiki/5/5e/Green_screen_car_crash.gif
+
 
 
 - 👋 Hi, I’m @ArcherBright123
@@ -25,3 +25,4 @@ https://static.wikitide.net/partycrasherswiki/5/5e/Green_screen_car_crash.gif
 ArcherBright123/ArcherBright123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Green_screen_car_crash](https://github.com/user-attachments/assets/0295a430-5559-48ab-876c-c6e6ca3e403c)
