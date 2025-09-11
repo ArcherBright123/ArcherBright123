@@ -1,4 +1,4 @@
-<img width="320" height="180" alt="gif" src="https://github.com/user-attachments/assets/193653fc-6353-430d-abfb-b285e9a98b54" />
+https://static.wikitide.net/partycrasherswiki/5/5e/Green_screen_car_crash.gif
 
 
 - 👋 Hi, I’m @ArcherBright123
